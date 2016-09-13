@@ -1,0 +1,13 @@
+.exe
+.sdf
+.sln
+.suo
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
+.obj
+.log
+.idb
+.pdb
+.tlog
+.lasbuildstate
