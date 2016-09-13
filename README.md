@@ -1,2 +1,2 @@
 # ProjectEuler
-Algorítimos para Solução de problemas propostos projecteuler.net C/C++
+Algorítimos para Solução de problemas propostos pelo projecteuler.net C/C++
