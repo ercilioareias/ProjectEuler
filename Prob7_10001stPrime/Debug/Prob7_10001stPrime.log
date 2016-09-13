@@ -1,4 +1,0 @@
-﻿  Source.cpp
-e:\google drive\ativo\eulerproject\library\primo.h(44): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
-e:\google drive\ativo\eulerproject\library\primo.h(6): warning C4101: 'total_t' : unreferenced local variable
-  Prob7_10001stPrime.vcxproj -> E:\Google Drive\ativo\EulerProject\Debug\Prob7_10001stPrime.exe

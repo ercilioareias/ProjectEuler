@@ -1,4 +1,0 @@
-﻿  main.cpp
-e:\google drive\ativo\eulerproject\problem6_sumsquarediff\main.cpp(22): warning C4244: '+=' : conversion from 'long double' to 'long', possible loss of data
-e:\google drive\ativo\eulerproject\problem6_sumsquarediff\main.cpp(26): warning C4244: '=' : conversion from 'long double' to 'long', possible loss of data
-  problem6_SumSquareDiff.vcxproj -> E:\Google Drive\ativo\EulerProject\Debug\problem6_SumSquareDiff.exe
