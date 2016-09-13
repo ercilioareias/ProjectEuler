@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\google drive\ativo\eulerproject\printbinary\source.cpp(26): warning C4309: 'initializing' : truncation of constant value
+e:\google drive\ativo\eulerproject\printbinary\source.cpp(33): warning C4129: ')' : unrecognized character escape sequence
+  PrintBinary.vcxproj -> E:\Google Drive\ativo\EulerProject\Debug\PrintBinary.exe
