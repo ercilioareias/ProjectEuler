@@ -1,4 +1,0 @@
-﻿  Main.cpp
-e:\google drive\ativo\eulerproject\prob8_adjacentproduct\main.cpp(14): warning C4018: '<' : signed/unsigned mismatch
-e:\google drive\ativo\eulerproject\prob8_adjacentproduct\main.cpp(57): warning C4018: '<=' : signed/unsigned mismatch
-  Prob8_adjacentProduct.vcxproj -> E:\Google Drive\ativo\EulerProject\Debug\Prob8_adjacentProduct.exe
